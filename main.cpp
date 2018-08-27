@@ -15,10 +15,10 @@ private:
 
 int main ()
 {
-	FourVector v1, v2, v3;
 
-	v3 = v1 + v2;
 
-	cout << "The sum of vectors is " << v3 << endl;
+
+
+	cout << "This is the solution of the Task 1 "<<endl;
 	return 0;
 }
